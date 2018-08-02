@@ -1,0 +1,11 @@
+{
+  "name": "hupu-spider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "eventproxy": "^1.0.0",
+    "superagent": "^3.8.3"
+  }
+}
